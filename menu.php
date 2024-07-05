@@ -1,6 +1,6 @@
 <?php
-    echo"<h1>Main</h1>";   
-    echo"<h1>Porduct</h1>";
-    echo"<h1>Food</h1>";
-    echo"<h1>LOL</h1>"; 
+    echo"<h1>หน้าหลัก</h1>";   
+    echo"<h1>สินค้า</h1>";
+    echo"<h1>เกียวกับเรา</h1>";
+    echo"<h1>แผนที่</h1>"; 
 ?>
